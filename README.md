@@ -4,11 +4,11 @@
 
 ---
 
-### :woman_technologist: Sobre Mi :
+### 🙇‍♂️_technologist: Sobre Mi :
 
 Soy Estudiante de Ingeniería en Sistemas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Universidad Mariano Gálvez de Guatemala.
 
-- :telescope: Trabajo como Desarrollador Web y contribuyo al frontend y backend para crear aplicaciones web.
+- :telescope: Trabajo como Desarrollador Web y contribuyo al frontend y backend para crear aplicaciones escalables con el fin de brindar una mejor experiencia a los usuarios
 
 - :zap: En mi tiempo libre aprendo cosas nuevas sobre tecnología.
 
