@@ -4,7 +4,7 @@
 
 ---
 
-### 🙇‍♂️_technologist: Sobre Mi :
+### Sobre Mi :
 
 Soy Estudiante de Ingeniería en Sistemas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Universidad Mariano Gálvez de Guatemala.
 
