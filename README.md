@@ -6,9 +6,15 @@
 
 ### - :man_student: Sobre Mi :
 
-Soy Estudiante de Ingeniería en Sistemas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en Universidad Mariano Gálvez de Guatemala.
+Me Considero una persona responsable, disciplinada, innovadora y con facilidad de adaptación a las distintas áreas tecnológicas, dándome a conocer por los más altos principios éticos y morales.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :man_technologist: Trabajo como Desarrollador Web y contribuyo en el front-end y back-end para desarrollar aplicaciones escalables con el fin de brindar una mejor experiencia a los usuarios
+- :man_technologist: Dentro de mis habilidades principales están las siguientes:
+- Gestión de Proyectos
+-Desarrollo de Software
+-Análisis y Auditoría de Sistemas
+-Dirección de Equipos
+-Liderazgo, entre otros.
 
 - :computer: En mi tiempo libre aprendo cosas nuevas sobre tecnología.
 
