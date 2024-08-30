@@ -6,17 +6,9 @@
 
 ### - :man_student: Sobre Mi :
 
-Me Considero una persona responsable, disciplinada, innovadora y con facilidad de adaptación a las distintas áreas tecnológicas, dándome a conocer por los más altos principios éticos y morales.
+- :man_technologist: Soy Ingeniero en Sistemas con experiencia en la creación de aplicaciones web escalables y eficientes. Apasionado por el desarrollo de software, la resolución de problemas y el aprendizaje continuo de nuevas tecnologías..
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :man_technologist: Dentro de mis habilidades principales están las siguientes:
-- Gestión de Proyectos
--Desarrollo de Software
--Análisis y Auditoría de Sistemas
--Dirección de Equipos
--Liderazgo, entre otros.
-
-- :computer: En mi tiempo libre aprendo cosas nuevas sobre tecnología.
 
 - :mailbox:Puedes contactarme por este medio: [![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/WVasquezCode)
 
